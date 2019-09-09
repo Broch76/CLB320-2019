@@ -1,0 +1,7 @@
+Effective A = 0.36 m2 (total)
+Liquid cap = 0.026 l/plate @ 10 plate chambers = 0.26 l
+Plate thickness = 0.4 mm  (Stainless Steel)   = 0.5 mm (Titanium)
+Plate gap = 1.4 mm
+21 plates (10 cavities)
+R = S/Steel
+G = Ti
